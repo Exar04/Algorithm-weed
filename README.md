@@ -6,3 +6,5 @@ every time it does multiplication of 1 number it will print the sequence number.
 Btw, its actually calculating square nxn
 
 good luck having anxiety while waiting for number to get printed.
+
+if you input 0 then all of your anxity will get released.
